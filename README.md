@@ -1,5 +1,5 @@
 # DevOps-TP1
-After opening 'my_project', you will have to set your environment variable 'PING_LISTEN_PORT' using 
+After opening 'DevOps TP01', you will have to set your environment variable 'PING_LISTEN_PORT' using 
 'set PING_LISTEN_PORT={port}'
 on Windows.
 
