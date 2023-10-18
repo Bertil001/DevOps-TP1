@@ -17,4 +17,4 @@ curl localhost:{PING_LISTEN_PORT}/ping -v
 
 You will see the headers of your request on your browser's page or in your terminal.
 
-If the route is wrong you will get a simple response with 404 status code. For any other error, you will receive a response with 500 status code.
+If the route is wrong you will get a simple response with '404' status code. For any other error, you will receive a response with '500' status code.
